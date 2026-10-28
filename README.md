@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b1493a8-ec79-4310-8e6e-38546261f04e" alt="Full Stack Portfolio Banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
