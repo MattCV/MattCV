@@ -17,9 +17,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattCV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattCV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115" alt="Top Languages" width="48%" />
-</p>
