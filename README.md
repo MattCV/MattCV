@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b1493a8-ec79-4310-8e6e-38546261f04e" alt="Full Stack Portfolio Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/fe4d00ca-ce2e-4acc-a043-855e2c992a95" alt="Full_stack_portfolio_banner_V2" width="100%">
 </p>
 
-## Hi there 👋
 
 ### 🛠️ Tech Stack & Tools
 
