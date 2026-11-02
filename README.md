@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/fe4d00ca-ce2e-4acc-a043-855e2c992a95" alt="Full_stack_portfolio_banner_V2" width="100%">
 </p>
 
+Software Engineering student specializing in Front-end. Passionate about connecting modern web interfaces with solid backend logic and robust databases.
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
